@@ -19,9 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Relative Layout"
-include(":app")
-include(":app")
-include(":app")
+rootProject.name = "Spinner"
 include(":app")
  
