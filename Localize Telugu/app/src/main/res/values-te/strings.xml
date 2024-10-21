@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">తెలుగు అనువాదకుడు</string>
+    <string name="welcome">స్వాగతం</string>
+    <string name="change_language">భాష మార్చండి</string>
+</resources>

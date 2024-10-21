@@ -50,5 +50,6 @@
         android:layout_height="wrap_content"
         android:text="Button"
         tools:layout_editor_absoluteX="160dp"
-        tools:layout_editor_absoluteY="529dp" />
+        tools:layout_editor_absoluteY="529dp"
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
